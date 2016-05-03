@@ -1,0 +1,28 @@
+name: nicholasfulford
+favicon: null
+layout_spectrum: 0.24367144401185215
+typography_spectrum: 0.5379872149787843
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#E0FBFC'
+    - '#C2DFE3'
+    - '#9DB4C0'
+    - '#5C6B73'
+    - '#253237'
+  brandStrength: 0.8306759598199278
+  lightness: 0.1861225941684097
+  saturation: 0.8179889474995434
+  rhythmicContrast: 0.1928332766983658
+purpose: []
